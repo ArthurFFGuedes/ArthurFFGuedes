@@ -1,7 +1,7 @@
 ### Olá! Sou o Arthur Guedes
 
 - 🔭 Atualmente trabalho como professor de inglês.
-- 🌱 Estou estudando programação para me tornar um Dev Full-Stack.
+- 🌱 Estudando programação, meta: Dev. Full-Stack. (Senai)
 - 📖 Iniciarei o curso de Engenharia da Computação ano que vem.
 
 
