@@ -1,6 +1,6 @@
 ### Olá! Sou o Arthur Guedes
 
-- 🔭 Atualmente trabalho como professor de inglês.
+- 🔭 Atualmente trabalho como professor de inglês no CNA.
 - 🌱 Estudando programação no Senai e independentemente. Dev. Full-Stack eventualmente.
 - 📖 Iniciarei o curso de Engenharia da Computação ano que vem.
 
