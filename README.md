@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como professor de inglês no CNA.
 - 🌱 Estudando programação no Senai e independentemente. Dev. Full-Stack eventualmente.
-- 📖 Iniciarei o curso de Engenharia da Computação ano que vem.
+- 📖 Iniciarei o curso de Engenharia da Computação ano que vem. Estudando para dar certo!
 
 
 ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical)
