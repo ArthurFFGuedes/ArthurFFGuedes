@@ -5,7 +5,7 @@
 - 📖 Iniciarei o curso de Engenharia da Computação ano que vem. Estudando para dar certo!
 
 
-
+![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical)
 <div> 
   <a href="https://instagram.com/arthurguedes324" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Meddenn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
