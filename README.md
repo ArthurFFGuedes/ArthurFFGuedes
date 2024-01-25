@@ -1,8 +1,8 @@
-### Olá! Sou o Arthur Guedes
+### Hi, im Arthur Guedes
 
-- 🔭 Atualmente, trabalho como professor de inglês no CNA Porto Velho.
-- 🌱 Estudando programação no Senai e independentemente. Developer Full-Stack eventualmente!
-- 📖 Iniciarei o curso de Engenharia da Computação ano que vem. Estudando para dar certo!
+- 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
+- 🌱 Majoring Computer Science and Engineering at University of Texas Arlington!
+- 📖 Studying online Full-Stack developer courses at SENAI Braszil
 
 
 ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical)
