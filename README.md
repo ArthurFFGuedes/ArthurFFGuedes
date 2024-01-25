@@ -1,8 +1,8 @@
-### Olá! Sou o Arthur Guedes
+### Hi, im Arthur Guedes
 
-- 🔭 Atualmente trabalho como professor de inglês.
-- 🌱 Estou estudando programação para me tornar um Dev Full-Stack.
-- 📖 Iniciarei o curso de Engenharia da Computação ano que vem.
+- 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
+- 🌱 Majoring Computer Science and Engineering at University of Texas Arlington!
+- 📖 Studying online Full-Stack developer courses at SENAI Braszil
 
 
 ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical)
@@ -13,10 +13,3 @@
   <a href = "mailto:arthurffguedes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-f-f-guedes-974875271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- ##
-  <div align="center">
- 
-  ![Snake animation](https://github.com/ArthurFFGuedes/ArthurFFGuedes/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
