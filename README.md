@@ -1,7 +1,7 @@
 ### Hi, im Arthur Guedes
 
 - 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
-- 🌱 Majoring Computer Science and Engineering at University of Texas Arlington!
+- 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
 - 📖 Studying online Full-Stack developer courses at SENAI Braszil
 
 
