@@ -2,7 +2,7 @@
 
 - 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
 - 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
-- 📖 Studying online Full-Stack developer courses at SENAI Braszil
+- 📖 Full-Stack developer course completed at SENAI Brazil
 
 
 <!-- ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical) -->
