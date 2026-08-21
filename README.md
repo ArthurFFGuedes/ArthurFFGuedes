@@ -3,6 +3,7 @@
 - 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
 - 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
 - 📖 Full-Stack developer course completed at SENAI Brazil
+- [![Arthur's GitHub stats](https://github-stats-extended.vercel.app/api?username=arthurffguedes)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!-- ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical) -->
