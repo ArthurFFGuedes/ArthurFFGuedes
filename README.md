@@ -3,7 +3,7 @@
 - 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
 - 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
 - 📖 Full-Stack developer course completed at SENAI Brazil
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 
 <!-- ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical) -->
 <div> 
