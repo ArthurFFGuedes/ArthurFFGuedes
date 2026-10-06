@@ -1,8 +1,9 @@
 ### Hi, im Arthur Guedes
 
-- 🔭 Recently, I worked as an english teacher at CNA Porto Velho.
+- 🔭 As my first job, I worked as an english teacher at CNA Porto Velho at 18 years old (2023).
 - 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
-- 📖 Full-Stack developer course completed at SENAI Brazil
+- 📖 Full-Stack developer course completed at SENAI Brazil.
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 
