@@ -1,11 +1,13 @@
-### Olá! Sou o Arthur Guedes
+### Hi, im Arthur Guedes
 
-- 🔭 Atualmente trabalho como professor de inglês.
-- 🌱 Estou estudando programação para me tornar um Dev Full-Stack.
-- 📖 Iniciarei o curso de Engenharia da Computação ano que vem.
+- 🔭 As my first job, I worked as an english teacher at CNA Porto Velho at 18 years old (2023).
+- 🌱 Majoring Finance and Pre-Law at University of Texas Arlington!
+- 📖 Full-Stack developer course completed at SENAI Brazil.
 
 
-![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArthurFFGuedes&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+
+<!-- ![ArthurFFGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFFGuedes&hide=contribs&show_icons=true&theme=radical) -->
 <div> 
   <a href="https://instagram.com/arthurguedes324" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Meddenn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -13,10 +15,3 @@
   <a href = "mailto:arthurffguedes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-f-f-guedes-974875271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- ##
-  <div align="center">
- 
-  ![Snake animation](https://github.com/ArthurFFGuedes/ArthurFFGuedes/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
